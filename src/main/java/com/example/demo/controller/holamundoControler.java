@@ -8,6 +8,6 @@ public class holamundoControler {
 	
 	@GetMapping("/hola")
 	public String Index() {
-		return "Hola Mundo!";
+		return "Hola Cibertec!";
 	}
 }
